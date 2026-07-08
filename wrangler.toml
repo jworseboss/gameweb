@@ -1,0 +1,7 @@
+Ini, TOML
+name = "gameweb"
+compatibility_date = "2026-07-08"
+
+[site]
+bucket = "."
+entry-point = "workers-site"
